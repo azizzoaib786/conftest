@@ -4,5 +4,6 @@
 
 Can be used in Atlantis pre-baked container image.
 
-- replace `$github_org` with your Github Organization
-- replace `$github_conftest_policies_repo` with repository location in your Github Organization
+- replace `$GITHUB_ORG` with your Github Organization
+- replace `$GITHUB_ORG_POLICIES_REPO` with repository location in your Github Organization
+- replace `$ATLANTIS_GH_TOKEN` with the Github Token
